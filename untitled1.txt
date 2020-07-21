@@ -1,0 +1,27 @@
+1)back slash(/)
+print("hello/
+        python")
+        
+2)triple quotes
+
+3)/t = tab,/n = new line,//=hide line
+
+4)python variables
+ans-variable means linking of the data to name
+
+5)binary format
+a=240
+bin(a)
+'0b11110000'
+
+6)or
+t or t =t
+t or f =t
+f or t =t
+f or f =f
+
+7)and
+t and f =f
+f and t =f
+f and f =f
+t and t =t
